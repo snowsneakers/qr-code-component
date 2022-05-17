@@ -10,6 +10,10 @@ function App() {
           <p className="mb-5 leading-tight">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
         </div>
       </div>
+    <div class="attribution">
+      <span>Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>.</span> 
+      <span>Coded by <a href="https://github.com/snowsneakers">Patrick Snowden</a>.</span>
+  </div>
     </>
   );
 }

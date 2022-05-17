@@ -31,6 +31,17 @@ p{
   font-size: 20px;
 }
 
+.attribution{
+  position: absolute;
+  bottom: 2rem;
+  right: 50%;
+  transform: translate(50%);
+  font-size: 11px; text-align: center; 
+}
+.attribution a{ 
+  color: hsl(228, 45%, 44%); 
+}
+
 @media (max-width: 425px){
   body{
     padding: 0 2vw;
