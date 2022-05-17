@@ -3,7 +3,7 @@ This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-c
 
 [Click here](https://snowsneakers.github.io/qr-code-component/) to see the solution.
 
-<img src="images/qrcodefem.png" alt="app demo image" width="100%"/>
+<img src="./images/qrcodefem.png" alt="app demo image" width="100%"/>
 
 ## How It's Made:
 
