@@ -1,5 +1,5 @@
 # QR Code Component
-This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component Frontend Mentor challenge</a>.
+This is a solution to the <a href="https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H">QR code component</a> Frontend Mentor challenge.
 
 [Click here](https://femqrcodecomponent.netlify.app) to see the solution.
 
